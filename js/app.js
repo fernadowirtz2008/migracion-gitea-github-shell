@@ -1,1 +1,1 @@
-console.log("Tienda Web preparada para practicar Git");
+console.log("Tienda Web: rama desarrollo");
